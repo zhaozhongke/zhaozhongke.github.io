@@ -1,0 +1,9 @@
+Origin: LakalaTweak
+Label: LakalaTweak
+Suite: stable
+Version: 1.0
+Codename: LakalaTweak
+Support: zhaozhongke@gmail.com
+Architectures: iphoneos-arm
+Components: main
+Description: LakalaTweak
