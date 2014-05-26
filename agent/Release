@@ -1,0 +1,9 @@
+Origin: Redhand
+Label: Redhand
+Suite: stable
+Version: 1.0
+Codename: IAPAgent
+Support: zhaozhongke@gmail.com
+Architectures: iphoneos-arm
+Components: main
+Description: IAP Agent
